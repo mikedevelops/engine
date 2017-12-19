@@ -16,7 +16,7 @@ Start a local webserver and watch for changes.
 npm run watch
 ```
 
-Run test suite, powered by [Jest](https://facebook.github.io/jest/)
+Run test suite, powered by [Jest](https://facebook.github.io/jest/).
 
 ```
 npm test
